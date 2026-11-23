@@ -43,13 +43,13 @@ body {
 }
 
 h1 {
-    color: #ceeaf0;
+    color: #381f4a;
     font-size: 28px;
     margin-bottom: 10px;
 }
 
 p {
-    color: #bcdce3;
+    color: #381f4a;
     font-size: 16px;
     margin-bottom: 25px;
 }
@@ -78,7 +78,7 @@ p {
 }
 
 .btn:hover {
-    background: linear-gradient(90deg, #4b7a0a, #5c940d);
+    background: linear-gradient(90deg, #7a30b0, #8e39cc);
     transform: translateY(-2px);
     box-shadow: 0 6px 16px rgba(92, 148, 13, 0.35);
 }
