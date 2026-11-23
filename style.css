@@ -43,13 +43,13 @@ body {
 }
 
 h1 {
-    color: #2b591e;
+    color: #ceeaf0;
     font-size: 28px;
     margin-bottom: 10px;
 }
 
 p {
-    color: #467a2e;
+    color: #bcdce3;
     font-size: 16px;
     margin-bottom: 25px;
 }
@@ -67,7 +67,7 @@ p {
     font-size: 17px;
     font-weight: 600;
     color: #ffffff;
-    background: linear-gradient(90deg, #5c940d, #74b816);
+    background: linear-gradient(90deg, #7a30b0, #8e39cc);
     text-decoration: none;
     border-radius: 12px;
     width: 100%;
