@@ -73,7 +73,7 @@ p {
     width: 100%;
     max-width: 300px;
     text-align: center;
-    box-shadow: 0 4px 12px rgba(92, 148, 13, 0.25);
+    box-shadow: 0 4px 12px rgba(145, 106, 173, 0.25);
     transition: transform 0.2s, box-shadow 0.2s, background 0.3s;
 }
 
